@@ -8,3 +8,4 @@ set smartindent
 set smarttab
 set scrolloff=5
 set expandtab
+set ruler " to show line and column numbers in lower right
